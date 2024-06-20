@@ -1,4 +1,4 @@
-# Agents and AI Engines
+# Agents and AI Engines [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_OyKDngIkRmtNV0FmPs7k_B_hWXWAaz3?usp=sharing)
 
 This repository demonstrates a dynamic shopping environment using AI agents to interact with users and perform various tasks, including product searches on Amazon.in. The project leverages multiple AI agents to handle different functionalities such as booking tickets, fetching offers, checking price trends, and conducting online product searches.
 
@@ -20,5 +20,5 @@ https://github.com/suriyakumar99/ai-engine/assets/68340831/8f66c0fc-6a2a-424e-99
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/ai-agents-shopping-environment.git
-   cd ai-agents-shopping-environment
+   git clone https://github.com/suriyakumar99/ai-engine.git
+   cd ai-engine/shopping-environment.ipynb
